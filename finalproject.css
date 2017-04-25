@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Patua+One');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+
+h1{
+  font-family: 'Patua one', cursive;
+}
+
+p{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+body {
+color: white;
+background-image: url("http://www.planwallpaper.com/static/images/background-wallpapers-2.jpg");
+}
