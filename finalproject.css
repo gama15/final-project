@@ -10,6 +10,10 @@ p{
 }
 
 body {
-color: white;
+/*color: white;*/
 background-image: url("http://www.planwallpaper.com/static/images/background-wallpapers-2.jpg");
+}
+
+svg{
+  background-color: white;
 }
