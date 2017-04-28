@@ -1,0 +1,11 @@
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="finalproject.css">
+</head>
+<body>
+
+<svg id="canvas" width="80%" viewBox="0 0 200 100"></svg>
+<script src="final_project.js"></script>
+</body>
+</html>
