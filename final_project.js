@@ -1,6 +1,4 @@
 var namespace = "https://www.w3.org/2000/svg"
-// makeImage("test.jpg", 50, 50, 50, 50)
-makeCircle(10, 10, 10)
 makeImage("https://static.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg", 10, 10, 100, 100, 1)
 
 

@@ -4,7 +4,28 @@
   <link rel="stylesheet" href="finalproject.css">
 </head>
 <body>
+<h1> Kobe vs Lebron </h1>
+<ol> Kobe </ol>
+<p> Kobe Bean Bryant (born August 23, 1978) is an American retired professional
+basketball player and businessman.[3] He played his entire 20-year career with
+the Los Angeles Lakers of the National Basketball Association (NBA). He entered
+the NBA directly from high school and won five NBA championships with the Lakers.
+Bryant is an 18-time All-Star, 15-time member of the All-NBA Team, and 12-time
+member of the All-Defensive team. He led the NBA in scoring during two seasons,
+and ranks third on the league's all-time regular season scoring and fourth on the
+all-time postseason scoring list. He holds the NBA record for the most seasons
+playing with one franchise for an entire career. Has 5 NBA champioships and helped U.S.
+win the gold medels two times in 2008 and 2012 </p>
+<svg id="canvas" width="80%" viewBox="0 0 200 100"></svg>
 
+<ol> Lebron </ol>
+<p> LeBron Raymone James(born December 30, 1984) is an American professional basketball
+player for the Cleveland Cavaliers of the National Basketball Association (NBA).
+James has won three NBA championships (2012, 2013, 2016), four NBA Most Valuable
+Player Awards (2009, 2010, 2012, 2013), three NBA Finals MVP Awards (2012, 2013, 2016),
+two Olympic gold medals (2008, 2012), an NBA scoring title (2008), and the NBA
+Rookie of the Year Award (2004). He has also been selected to 13 NBA All-Star teams,
+12 All-NBA teams, and six All-Defensive teams, and is the Cavaliers' all-time leading scorer.</P>
 <svg id="canvas" width="80%" viewBox="0 0 200 100"></svg>
 <script src="final_project.js"></script>
 </body>
